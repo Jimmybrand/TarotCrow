@@ -237,9 +237,7 @@ MAJOR_ARCANA: list[TarotCard] = [
         keywords=["balance", "moderation", "patience", "purpose", "meaning"],
         upright_meaning="Blend opposing forces with patience; seek harmony and moderation.",
         reversed_meaning="Imbalance, excess, or lack of long-term vision.",
-        description=(
-            "An angel pours water between two cups, one foot on land and one in a pool."
-        ),
+        description=("An angel pours water between two cups, one foot on land and one in a pool."),
         advice="Find the middle path; moderation creates sustainable progress.",
     ),
     TarotCard(
@@ -253,8 +251,7 @@ MAJOR_ARCANA: list[TarotCard] = [
         upright_meaning="Recognize the chains of attachment and illusion that bind you.",
         reversed_meaning="Breaking free, releasing limiting beliefs, or reclaiming power.",
         description=(
-            "A horned figure presides over two chained figures, "
-            "their bonds loose enough to remove."
+            "A horned figure presides over two chained figures, their bonds loose enough to remove."
         ),
         advice="Examine what holds you captive; freedom begins with awareness.",
     ),
@@ -327,9 +324,7 @@ MAJOR_ARCANA: list[TarotCard] = [
         keywords=["judgement", "rebirth", "inner calling", "absolution"],
         upright_meaning="A call to rise; heed your higher calling and embrace renewal.",
         reversed_meaning="Self-doubt, avoidance, or failure to learn from the past.",
-        description=(
-            "An angel trumpets from the heavens while figures rise from coffins below."
-        ),
+        description=("An angel trumpets from the heavens while figures rise from coffins below."),
         advice="Answer the call to evolve; forgive yourself and move forward.",
     ),
     TarotCard(
@@ -343,8 +338,7 @@ MAJOR_ARCANA: list[TarotCard] = [
         upright_meaning="A cycle completes; wholeness, achievement, and integration.",
         reversed_meaning="Incompletion, shortcuts, or lack of closure.",
         description=(
-            "A dancer holds two wands within a laurel wreath, "
-            "surrounded by four living creatures."
+            "A dancer holds two wands within a laurel wreath, surrounded by four living creatures."
         ),
         advice="Honor your achievements; prepare for the next cycle with gratitude.",
     ),
